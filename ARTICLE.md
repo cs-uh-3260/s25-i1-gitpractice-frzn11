@@ -1,4 +1,4 @@
-#Article about refactoring AI generated code
+# Article about refactoring AI generated code
 
 [Refactoring AI code: The good, the bad, and the weird](https://www.infoworld.com/article/3610521/refactoring-ai-code-the-good-the-bad-and-the-weird.html "Article")
 
