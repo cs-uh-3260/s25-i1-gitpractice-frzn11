@@ -4,3 +4,5 @@
 A simple project to practice a few git/github workflows.
 
 I contributed to Enock's repo, here is the [pull request](https://github.com/cs-uh-3260/s25-i1-gitpractice-EnockMagara/pull/3).
+
+Note: Since one person can't fork multiple repositories, I wasn't able to get someone to fork mine. For the sake of practice I forked it using another account of mine and accepted/merged it here.
